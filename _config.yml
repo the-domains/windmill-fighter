@@ -1,4 +1,4 @@
-typography_spectrum: 0.3603091074619442
+typography_spectrum: 0.994089666986838
 color:
   brandStrength: 0.4191804425790906
   lightness: 0.8098505965899676
@@ -10,7 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.8402119686361402
+layout_spectrum: 0.6775831447448581
 name: Windmill Fighter
 navigation:
   - name: About this site…
