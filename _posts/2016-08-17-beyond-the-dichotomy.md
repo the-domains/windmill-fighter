@@ -13,27 +13,28 @@ publisher:
   favicon: 'http://beyondthedichotomy.blogspot.com/favicon.ico'
   domain: beyondthedichotomy.blogspot.com
 keywords:
-  - legislation
-  - alternative
-  - aca
-  - wenstrup
-  - specific
-  - problem
-  - engine
-  - congressman
-  - talking
-  - viable
+  - words
+  - invective
+  - engaged
+  - seem
+  - exchange
+  - linguist
+  - someone
+  - mean
+  - posting
+  - discuss
 description: >-
-  Yes, I owe you a book review. No, I have not finished the book yet. Yes, I
-  realize it's been seven months since I made that promise or last posted. It's
-  been a long and busy seven months. Sigh. Today I had the interesting
-  opportunity to hear a member of the U.S.
+  Is it possible that I keep forgetting that not everyone is as interested in
+  discussing politics as I am? Yes. Yes, it is. Not too long ago I was
+  unfriended on Facebook. Most of us are unaware when someone takes this action,
+  as there is no jubilant timeline post letting us know that one of our
+  "friends" no longer likes us.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://beyondthedichotomy.blogspot.com/2013/04/questions-and-nonanswers.html'
+isBasedOnUrl: 'http://beyondthedichotomy.blogspot.com/2012/09/debate.html'
 title: Beyond the Dichotomy
-datePublished: '2016-08-17T00:20:36.629Z'
-dateModified: '2016-08-17T00:20:28.519Z'
+datePublished: '2016-08-17T00:21:00.179Z'
+dateModified: '2016-08-17T00:20:56.362Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-17-beyond-the-dichotomy.md
@@ -44,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Beyond the Dichotomy</h1><p>Yes, I owe you a book review. No, I have not finished the book yet. Yes, I realize it's been seven months since I made that promise or last posted. It's been a long and busy seven months. Sigh. Today I had the interesting opportunity to hear a member of the U.S.</p><img src="http://1.bp.blogspot.com/-Q6pEcxbxWGE/UWMtYAdHU7I/AAAAAAAAAAs/G-_5DwdGAtI/w1200-h630-p-nu/Wenstrup+Town+Hall.jpg" /></article>
+<article style=""><h1>Beyond the Dichotomy</h1><p>Is it possible that I keep forgetting that not everyone is as interested in discussing politics as I am? Yes. Yes, it is. Not too long ago I was unfriended on Facebook. Most of us are unaware when someone takes this action, as there is no jubilant timeline post letting us know that one of our "friends" no longer likes us.</p></article>
