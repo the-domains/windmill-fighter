@@ -6,9 +6,9 @@ color:
   saturation: 0.8333373893983662
   rhythmicContrast: 0.03027443611063063
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
 name: Windmill Fighter
