@@ -1,32 +1,20 @@
-title: Because Windmills Can Be Giants
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.994089666986838
 color:
-  saturation: 0.620142086641863
-  brandStrength: 0.6236559
+  brandStrength: 0.4191804425790906
   lightness: 0.8098505965899676
+  saturation: 0.620142086641863
+  rhythmicContrast: 0.21081326971761882
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 0.2108132697176188
-typography_spectrum: 0.937276
-description: And we must fight them
+layout_spectrum: 0.6775831447448581
+name: Windmill Fighter
 navigation:
   - name: About this site…
     id: 091af1dd-21bd-456b-baf9-444b6acb26c4
     type: content
-layout_spectrum: 0.6775831447448581
-name: Windmill Fighter
+title: Windmills Can Be Giants
+description: And we must fight them
