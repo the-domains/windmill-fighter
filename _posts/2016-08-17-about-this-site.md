@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-17T00:44:38.066Z'
-isBasedOnUrl: 'http://hdimagesnew.com/question-mark-hd-wallpaper/'
+datePublished: '2016-08-17T00:44:57.148Z'
 author: []
 via: {}
-dateModified: '2016-08-17T00:44:29.810Z'
+dateModified: '2016-08-17T00:44:56.819Z'
 title: About this site…
 publisher: {}
 description: >-
@@ -13,11 +12,10 @@ description: >-
   musings on everything from life and its eccentricities to entrepreneurship and
   small business to politics, religion, and everything else your mother told you
   wasn’t polite conversation.
-starred: false
 sourcePath: _posts/2016-08-17-about-this-site.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: about-this-site/index.html
 _type: MediaObject
 
 ---
