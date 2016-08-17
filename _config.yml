@@ -12,5 +12,9 @@ color:
     - '#2980B9'
 layout_spectrum: 0.8402119686361402
 name: Windmill Fighter
+navigation:
+  - name: About this site…
+    id: 091af1dd-21bd-456b-baf9-444b6acb26c4
+    type: content
 title: Because Windmills Can Be Giants
 description: And we must fight them
