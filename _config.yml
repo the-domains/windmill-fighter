@@ -1,15 +1,15 @@
-typography_spectrum: 0.11324333446100354
+typography_spectrum: 0.3603091074619442
 color:
-  brandStrength: 0.8667494473047554
-  lightness: 0.4434059502091259
-  saturation: 0.8333373893983662
-  rhythmicContrast: 0.03027443611063063
+  brandStrength: 0.4191804425790906
+  lightness: 0.8098505965899676
+  saturation: 0.620142086641863
+  rhythmicContrast: 0.21081326971761882
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 layout_spectrum: 0.8402119686361402
 name: Windmill Fighter
 title: Because Windmills Can Be Giants
